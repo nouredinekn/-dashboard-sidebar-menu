@@ -1,16 +1,16 @@
-dashboard-sidebar-menu
-By Nouredine Kaoine
 
-|-telegram : https://tm.me/n2k4n
-|- github : https://github.com/nouredinekn/
-|-instagram: www.instagram.com/nouredine_kn
----------------------------
-url to see responsive  : https://remarkable-hummingbird-b18692.netlify.app/
----------------------------
-/* Answer to: "what is responsive design" */
 
-/*
-  Responsive web design is an approach to web design that makes
-  web pages render well on a variety of devices and window or screen
-  sizes. Recent work also considers the viewer proximity as part of
-  the viewing context as an extension for RWD. */
+<h1 align="center">dashboard-sidebar-menu</h1>
+<h3 align="center">By Nouredine Kaoine</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/nouredinekn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nouredinekn" height="30" width="40" /></a>
+ <a href="https://t.me/n2k4n" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="nouredinekn" height="30" width="40" /></a>
+</p>
+---------------------------
+<h3 align="left">url to see responsive</h3>
+
+ https://remarkable-hummingbird-b18692.netlify.app/
+
+
